@@ -1,7 +1,5 @@
 # Scrapping-Data-Web-Detik.com
 
-# Web Scraping Data Menggunakan Python
-
 ## 📌 Deskripsi Project
 Project ini merupakan implementasi web scraping menggunakan Python yang dibuat dalam bentuk Jupyter Notebook (`scrappingdata.ipynb`).  
 
