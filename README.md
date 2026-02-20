@@ -34,30 +34,6 @@ project/
 
 ---
 
-## ⚙️ Cara Menjalankan Project
-
-1. Clone repository
-
-git clone https://github.com/username/nama-repo.git
-
-2. Masuk ke folder project
-
-cd nama-repo
-
-3. Install dependencies
-
-pip install requests beautifulsoup4 pandas notebook
-
-4. Jalankan Jupyter Notebook
-
-jupyter notebook
-
-5. Buka file:
-
-scrappingdata.ipynb
-
----
-
 ## 🔎 Tahapan Proses Scraping
 1. Import library
 2. Mengirim request ke website
