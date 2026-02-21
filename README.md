@@ -25,14 +25,14 @@ Notebook ini digunakan untuk mengambil (scrape) data dari sebuah website, kemudi
 ---
 
 ## 📂 Struktur Project
-
+```bash
 project/
 │
 ├── scrappingdata.ipynb
 ├── hasil_scraping.csv (jika ada)
 └── README.md
+```
 
----
 
 ## 🔎 Tahapan Proses Scraping
 1. Import library
